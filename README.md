@@ -1,10 +1,13 @@
 # weather_app
 
+INSTALL THE APP IN YOUR PHONE FOR TESTING BY CLICKING ON:
+APK.apk
+
 ## Features
 
 - API is https://openweathermap.org
 - Show weather of current/selected location
-- Caching of weather information for a 20 mile radius, if already fetched. Cache duration is 1 hour and after that refetch again.
+- Caching of weather information for a 20 miles (32168.88 metters) radius, if already fetched. Cache duration is 1 hour and after that refetch again.
 
 ## Set up instructions
 
