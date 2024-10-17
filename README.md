@@ -1,8 +1,5 @@
 # weather_app
 
-INSTALL THE APP IN YOUR PHONE FOR TESTING BY CLICKING ON:
-APK.apk
-
 ## Features
 
 - API is https://openweathermap.org
